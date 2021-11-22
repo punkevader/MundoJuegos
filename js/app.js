@@ -144,9 +144,9 @@ function listadocateg() {
           document.getElementById("prok").innerHTML = xhttp.responseText;
         }
         else if(xhttp.status="400"){
-          alert('Hubo un error al 400');
+          alert('ERROR 400');
         }else{
-          alert('Error 200');
+          alert('ERROR 200');
         }
       }
     }
