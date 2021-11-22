@@ -1,0 +1,46 @@
+<div class="row">
+
+            <div class="four columns">
+                <div class="card">
+                    <img src="img/PT.jpg" class="u-full-width">
+                    <div class="info-card">
+                        <h4>Silent Hill P.T.</h4>
+                        <p>Konami</p>
+                        <p class="precio"> <span class="u-pull-right">$30</span></p>
+                        <a href="#" 
+                        class="u-full-width button-primary button input agregar-carrito                        
+                        ">Agregar Al Carrito</a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="four columns">
+                <div class="card">
+                    <img src="img/deadspace.jpg" class="u-full-width">
+                    <div class="info-card">
+                        <h4>Dead Space</h4>
+                        <p>Viceral Games</p>
+                        <p>En Descuento</p>
+                        <p class="precio">$30 <span class="u-pull-right">$9.99</span></p>
+                        <a href="#" 
+                        class="u-full-width button-primary button input agregar-carrito                        
+                        ">Agregar Al Carrito</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="four columns">
+                <div class="card">
+                    <img src="img/outlast.jpg" class="u-full-width">
+                    <div class="info-card">
+                        <h4>Outlast</h4>
+                        <p>Red Barrels Studio</p>
+                        <p class="precio"> <span class="u-pull-right">39.99</span></p>
+                        <a href="#" 
+                        class="u-full-width button-primary button input agregar-carrito                        
+                        ">Agregar Al Carrito</a>
+                    </div>
+                </div>
+            </div>
+
+</div><!--.row-->      

@@ -1,0 +1,75 @@
+<div class="row">
+
+            <div class="four columns">
+                <div class="card">
+                    <img src="img/Fallout.jpg" class="u-full-width">
+                    <div class="info-card">
+                        <h4>Fallout 4</h4>
+                        <p>Bethesda Game Studios</p>
+                        <p>En Descuento</p>
+                        <p class="precio">$30 <span class="u-pull-right">$9.99</span></p>
+                        <a href="#" 
+                        class="u-full-width button-primary button input agregar-carrito                        
+                        ">Agregar Al Carrito</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="four columns">
+                <div class="card">
+                    <img src="img/RE4.jpg" class="u-full-width">
+                    <div class="info-card">
+                        <h4>Resident Evil 4</h4>
+                        <p>Capcom, Capcom Production Studio 4</p>
+                        <p class="precio"> <span class="u-pull-right">$14.99</span></p>
+                        <a href="#" 
+                        class="u-full-width button-primary button input agregar-carrito                        
+                        ">Agregar Al Carrito</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="four columns">
+                <div class="card">
+                    <img src="img/Halo.jpg" class="u-full-width">
+                    <div class="info-card">
+                        <h4>Halo: The Master Chief Collection</h4>
+                        <p>343 Industries</p>
+                        <p>En Descuento</p>
+                        <p class="precio">$120 <span class="u-pull-right">$19.99</span></p>
+                        <a href="#" 
+                        class="u-full-width button-primary button input agregar-carrito                        
+                        ">Agregar Al Carrito</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="four columns">
+                <div class="card">
+                    <img src="img/Infinity.jpg" class="u-full-width">
+                    <div class="info-card">
+                        <h4>Halo Infinite</h4>
+                        <p>343 Industries</p>
+                        <p class="precio"> <span class="u-pull-right">$60</span></p>
+                        <a href="#" 
+                        class="u-full-width button-primary button input agregar-carrito                        
+                        ">Agregar Al Carrito</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="four columns">
+                <div class="card">
+                    <img src="img/FarCry3.jpg" class="u-full-width">
+                    <div class="info-card">
+                        <h4>Far Cry 3</h4>
+                        <p>Ubisoft,Massive Entretainmet</p>
+                        <p class="precio"> <span class="u-pull-right">$30</span></p>
+                        <a href="#" 
+                        class="u-full-width button-primary button input agregar-carrito                        
+                        ">Agregar Al Carrito</a>
+                    </div>
+                </div>
+            </div>     
+            
+</div><!--.row-->

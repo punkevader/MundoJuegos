@@ -1,0 +1,88 @@
+<div class="row">
+
+            <div class="four columns">
+                <div class="card">
+                    <img src="img/ZOOT.jpg" class="u-full-width">
+                    <div class="info-card">
+                        <h4>Zoo Tycoon</h4>
+                        <p>Microsoft, Frontier Developments</p>
+                        <p class="precio"> <span class="u-pull-right">$4.99</span></p>
+                        <a href="#" 
+                        class="u-full-width button-primary button input agregar-carrito                        
+                        ">Agregar Al Carrito</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="four columns">
+                <div class="card">
+                    <img src="img/RollerCoaster.jpg" class="u-full-width">
+                    <div class="info-card">
+                        <h4>RollerCoaster Tycoon</h4>
+                        <p>Epic Games, Atari, Frontier Developments</p>
+                        <p class="precio"> <span class="u-pull-right">$2</span></p>
+                        <a href="#" 
+                        class="u-full-width button-primary button input agregar-carrito                        
+                        ">Agregar Al Carrito</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="four columns">
+                <div class="card">
+                    <img src="img/AOE.jpg" class="u-full-width">
+                    <div class="info-card">
+                        <h4>Age of Empires IV</h4>
+                        <p>Xbox Game Studios</p>
+                        <p>En Descuento</p>
+                        <p class="precio">$70 <span class="u-pull-right">$49.99</span></p>
+                        <a href="#" 
+                        class="u-full-width button-primary button input agregar-carrito                        
+                        ">Agregar Al Carrito</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="four columns">
+                <div class="card">
+                    <img src="img/AOM.jpg" class="u-full-width">
+                    <div class="info-card">
+                        <h4>Age of Mythology</h4>
+                        <p>Microsoft, MacPlay, Xbox Game Studios, MacSoftGamer</p>
+                        <p class="precio"> <span class="u-pull-right">$0.99</span></p>
+                        <a href="#" 
+                        class="u-full-width button-primary button input agregar-carrito                        
+                        ">Agregar Al Carrito</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="four columns">
+                <div class="card">
+                    <img src="img/AVP.jpg" class="u-full-width">
+                    <div class="info-card">
+                        <h4>Aliens Versus Predator: Extinction</h4>
+                        <p>Zono</p>
+                        <p class="precio"> <span class="u-pull-right">$4.99</span></p>
+                        <a href="#" 
+                        class="u-full-width button-primary button input agregar-carrito                        
+                        ">Agregar Al Carrito</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="four columns">
+                <div class="card">
+                    <img src="img/SC Remaster.jpg" class="u-full-width">
+                    <div class="info-card">
+                        <h4>StarCraft</h4>
+                        <p>Blizzard Entertainment, Nintendo, Super Simulation Studios</p>
+                        <p class="precio">$10 <span class="u-pull-right">$5</span></p>
+                        <a href="#" 
+                        class="u-full-width button-primary button input agregar-carrito                        
+                        ">Agregar Al Carrito</a>
+                    </div>
+                </div>
+            </div>
+
+</div><!--.row-->
